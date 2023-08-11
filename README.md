@@ -1,4 +1,4 @@
-### Regression_of_complex_numbers_using_Scikitlearn_and_TensorFlow
+### Regression_of_complex_numbers_using_Sklearn_and_TensorFlow
 
 ### Горшков Андрей Вячеславович
 ### Обучение моделей регрессии для переменных, содержащих комплексные числа, с использованием алгоритмов Scikit-learn и TensorFlow
